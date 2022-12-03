@@ -39,7 +39,7 @@ setuptools.setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/seebye/urwid-ueberzogen',  # Optional
+    url='https://github.com/doctorfree/urwid-ueberzogen-mpplus',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -94,7 +94,7 @@ setuptools.setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/seebye/urwid-ueberzogen/issues',
-        'Source': 'https://github.com/seebye/urwid-ueberzogen',
+        'Bug Reports': 'https://github.com/doctorfree/urwid-ueberzogen-mpplus/issues',
+        'Source': 'https://github.com/doctorfree/urwid-ueberzogen-mpplus',
     },
 )
